@@ -1,0 +1,6 @@
+github.com/go-skynet/go-llama.cpp v0.0.0-20240314183750-6a8041ef6b46 h1:lALhXzDkqtp12udlDLLg+ybXVMmL7Ox9tybqVLWxjPE=
+github.com/go-skynet/go-llama.cpp v0.0.0-20240314183750-6a8041ef6b46/go.mod h1:iub0ugfTnflE3rcIuqV2pQSo15nEw3GLW/utm5gyERo=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/ollama/ollama v0.3.12 h1:u7KFCKNDOEDD3kLlziB9XGeK6Jb1sLmlkrJSe8d5fS0=
+github.com/ollama/ollama v0.3.12/go.mod h1:YrWoNkFnPOYsnDvsf/Ztb1wxU9/IXrNsQHqcxbY2r94=
